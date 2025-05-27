@@ -1,3 +1,21 @@
+# 📘 My Follow-Along of Devops directive kubernetes course
+
+> Based on [Sidpalas repo](https://github.com/sidpalas/devops-directive-kubernetes-course)  
+> Tutorial by: @sidpalas
+
+---
+
+## 🧠 My Notes
+
+- Step 1: Setup worked without issues.
+- Step 2: I had to install an extra dependency on Mac.
+- Step 3: Changed folder structure for clarity.
+
+---
+
+## 📜 Original Tutorial Steps
+
+
 # DevOps Directive Kubernetes Course
 
 This is the companion repo to: [Complete Kubernetes Course -- From BEGINNER to PRO
