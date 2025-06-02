@@ -11,6 +11,9 @@
 - Step 2: I had to install an extra dependency on Mac.
 - Step 3: Changed folder structure for clarity.
 
+# What I did differently
+
+- 
 ---
 
 ## 📜 Original Tutorial Steps
