@@ -12,7 +12,7 @@ tasks:
     desc: "Create a namespace for these examples and set as default"
     cmds:
       - kubectl apply -f Namespace.yaml
-      - kubens ${NAMESPACE}
+      - kubectl config set-context --current --namespace=${NAMESPACE}
 
   02-apply-minimal-pod:
     desc: "Apply a minimal fluentd pod configuration"

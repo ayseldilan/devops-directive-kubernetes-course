@@ -1,20 +1,39 @@
-# 📘 My Follow-Along of Devops directive kubernetes course
+# 📘 My Follow-Along of DevOps Directive Kubernetes Course
 
-> Based on [Sidpalas repo](https://github.com/sidpalas/devops-directive-kubernetes-course)  
-> Tutorial by: @sidpalas
+> Based on [Sidpalas' repo](https://github.com/sidpalas/devops-directive-kubernetes-course)  
+> Tutorial by: [@sidpalas](https://github.com/sidpalas)
 
 ---
 
 ## 🧠 My Notes
 
-- Step 1: Setup worked without issues.
-- Step 2: I had to install an extra dependency on Mac.
-- Step 3: Changed folder structure for clarity.
+- **Step 1: Setup**  
+  ✅ Worked without issues.
 
-# What I did differently
+- **Step 2: Dependencies**  
+  🛠️ Had to install an extra dependency on Mac (`[insert dependency name if you remember]`).
 
-- 
+- **Step 3: Folder Structure**  
+  📁 Reorganized folders slightly for clarity.
+
+- **Step 4: StatefulSet**  
+  🔄 Haven’t done much here yet — will revisit.
+
 ---
+
+## ✏️ What I Did Differently
+
+- Installed an additional Mac dependency not mentioned in the tutorial.
+- Changed folder structure for better organization.
+
+> Will update this section as I progress through the course.
+
+---
+
+## 🚧 In Progress
+
+Currently on: **StatefulSet** section.  
+Next up: Deep dive into persistent volumes and StatefulSet behavior.
 
 ## 📜 Original Tutorial Steps
 
